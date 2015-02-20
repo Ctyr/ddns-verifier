@@ -4,6 +4,8 @@
 
 **Usage:** ./ddns-verifier &
 
-working with crontab and mutt
+**Attention:**
 
+- this program must working with crontab and mutt
+- you shoud substitude the email and ddns domain to yours.
 
